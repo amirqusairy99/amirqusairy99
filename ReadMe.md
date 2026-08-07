@@ -1,18 +1,97 @@
-# 💫 About Me:
-Infrastructure enthusiast | Linux learner | Web Developer | Security Curious<br><br>I work as a MIS Administrator, managing enterprise systems, servers, and applications. My interests are focused on building reliable infrastructure, automating operations, and improving system security.
+# About Me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+Infrastructure enthusiast | Linux Learner | DevOps Curious
+
+I am a MIS Administrator focused on system administration, Linux infrastructure, automation, and secure web systems.
+
+Currently exploring:
+- Linux administration
+- Docker & Kubernetes
+- Cloud infrastructure
+- CI/CD automation
+- Infrastructure as Code
+- Security practices
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amir-qusairy/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amirqusairy7@gmail.com) 
+## Socials
 
-# 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=amirqusairy99&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=amirqusairy99&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=amirqusairy99&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p align="left">
+<a href="www.linkedin.com/in/amir-qusairy/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amirqusairy99&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="github.com/amirqusairy99">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Technical Skills
+
+
+### Operating Systems
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat" />
+</p>
+
+
+### DevOps & Infrastructure
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,git,github" />
+</p>
+
+
+### Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,nginx,bootstrap" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="48" height="48" />
+</p>
+
+
+### Virtualization & Cloud
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,azure,linux,bash" />
+</p>
+
+
+## Featured Projects
+
+
+### LetsBelajar
+
+A learning management platform built with:
+
+- Laravel 12
+- PHP 8.3
+- MySQL
+- Bootstrap 5
+- Linux server deployment
+- Docker
+
+
+### Infrastructure Labs
+
+Hands-on projects involving:
+
+- Linux server administration
+- VMware / Hyper-V virtualization
+- Docker deployments
+- Cloud environments
+- Security testing
+
+
+## Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amirqusairy99&theme=tokyo-night)](https://github.com/amirqusairy99)
+
+<img src="https://github-readme-stats.vercel.app/api?username=amirqusairy99&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amirqusairy99&theme=tokyonight" />
+
+</p>
