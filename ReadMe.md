@@ -1,18 +1,122 @@
 # 💫 About Me:
-Infrastructure enthusiast | Linux learner | Web Developer | Security Curious<br><br>I work as a MIS Administrator, managing enterprise systems, servers, and applications. My interests are focused on building reliable infrastructure, automating operations, and improving system security.
+
+Infrastructure enthusiast | Linux Learner | DevOps Curious | Web Systems Administrator
+
+I work as a MIS Administrator, managing enterprise systems, servers, applications, and IT operations. My interests focus on Linux infrastructure, automation, cloud technologies, system security, and building reliable production environments.
+
+Currently learning and improving my skills in:
+- Linux system administration
+- Docker & containerization
+- Cloud infrastructure
+- CI/CD automation
+- Infrastructure as Code
+- Web application security
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amir-qusairy/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amirqusairy7@gmail.com) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](YOUR_GITHUB_URL)
+
 
 # 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+<p align="left">
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" />
+</a>
+
+<a href="https://ubuntu.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" />
+</a>
+
+<a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="36" height="36" />
+</a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" />
+</a>
+
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="36" height="36" />
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" />
+</a>
+
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" />
+</a>
+
+<a href="https://www.ansible.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="36" height="36" />
+</a>
+
+<a href="https://www.terraform.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="36" height="36" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" />
+</a>
+
+<a href="https://nginx.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="36" height="36" />
+</a>
+
+<a href="https://httpd.apache.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="36" height="36" />
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" />
+</a>
+
+<a href="https://laravel.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" />
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" />
+</a>
+
+<a href="https://www.vmware.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vsphere/vsphere-original.svg" width="36" height="36" />
+</a>
+
+</p>
+
+
+# 🚀 Projects:
+
+### LetsBelajar
+A Laravel-based learning management platform built with:
+- Laravel 12
+- PHP 8.3
+- MySQL
+- Bootstrap 5
+- Linux server deployment
+- Docker environment
+
+
+### Infrastructure Labs
+
+Hands-on labs covering:
+- Linux server administration
+- Web server deployment
+- Docker containerization
+- Cloud infrastructure
+- Security testing
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=amirqusairy99&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=amirqusairy99&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=amirqusairy99&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amirqusairy99&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🔝 Top Contributed Repo:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
