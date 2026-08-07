@@ -48,7 +48,8 @@ Currently exploring:
 ### Web Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,nginx,apache,bootstrap" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,nginx,bootstrap" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="48" height="48" />
 </p>
 
 
