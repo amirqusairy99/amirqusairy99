@@ -2,6 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hi%20there,%20I'm%20Amir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
+> "Keep it simple. Make it work. Improve it later."
+
 <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="120" align="right">
 Infrastructure enthusiast | Linux Administrator | DevOps Curious
 
@@ -17,7 +19,6 @@ Currently exploring:
 - Infrastructure as Code
 - Security practices
 
-
 ## Socials
 
 <p align="left">
@@ -30,9 +31,7 @@ Currently exploring:
 </a>
 </p>
 
-
 ## Technical Skills
-
 
 ### Operating Systems
 
@@ -40,13 +39,11 @@ Currently exploring:
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat" />
 </p>
 
-
 ### DevOps & Infrastructure
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,git,github" />
 </p>
-
 
 ### Web Development
 
@@ -55,13 +52,11 @@ Currently exploring:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="48" height="48" />
 </p>
 
-
 ### Virtualization & Cloud
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=aws,azure,linux,bash" />
 </p>
-
 
 ## Featured Projects
 
@@ -94,5 +89,3 @@ Hands-on projects involving:
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amirqusairy99&theme=tokyo-night)](https://github.com/amirqusairy99)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirqusairy99&theme=tokyonight" />
-
-> "Keep it simple. Make it work. Improve it later."
