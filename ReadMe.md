@@ -98,3 +98,4 @@ Hands-on projects involving:
 </p>
 
 ![Views](https://komarev.com/ghpvc/?username=amirqusairy99&color=7aa2f7&style=flat-square)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
