@@ -1,7 +1,6 @@
 # About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirqusairy99&layout=compact&theme=tokyonight" />
-
+<img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="120" align="right">
 Infrastructure enthusiast | Linux Administrator | DevOps Curious
 
 I am a MIS Administrator focused on system administration, Linux infrastructure, automation, and secure web systems.
