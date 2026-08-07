@@ -96,3 +96,5 @@ Hands-on projects involving:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirqusairy99&theme=tokyonight" />
 
 </p>
+
+![Views](https://komarev.com/ghpvc/?username=amirqusairy99&color=7aa2f7&style=flat-square)
