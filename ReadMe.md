@@ -1,6 +1,6 @@
 # About Me
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=tokyonight&height=200&section=header&text=Hi%20there,%20I'm%20Amir&fontSize=40&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hi%20there,%20I'm%20Amir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="120" align="right">
 Infrastructure enthusiast | Linux Administrator | DevOps Curious
