@@ -1,9 +1,9 @@
 # About Me
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=tokyonight&height=200&section=header&text=Hi%20there,%20I'm%20Amir&fontSize=40&animation=fadeIn)
+
 <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="120" align="right">
 Infrastructure enthusiast | Linux Administrator | DevOps Curious
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=tokyonight&height=200&section=header&text=Hi%20there,%20I'm%20Amir&fontSize=40&animation=fadeIn)
 
 I am a **MIS Administrator** with a focus on **Linux infrastructure, system administration, automation, and secure web environments**.
 
