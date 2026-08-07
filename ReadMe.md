@@ -3,7 +3,9 @@
 <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="120" align="right">
 Infrastructure enthusiast | Linux Administrator | DevOps Curious
 
-I am a MIS Administrator focused on system administration, Linux infrastructure, automation, and secure web systems.
+I am a **MIS Administrator** with a focus on **Linux infrastructure, system administration, automation, and secure web environments**.
+
+My interests include building reliable infrastructure, automating repetitive tasks, improving system security, and exploring modern DevOps practices.
 
 Currently exploring:
 - Linux administration
