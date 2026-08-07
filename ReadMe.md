@@ -95,4 +95,4 @@ Hands-on projects involving:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirqusairy99&theme=tokyonight" />
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> "Keep it simple. Make it work. Improve it later."
