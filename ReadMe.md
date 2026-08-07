@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 
-Infrastructure enthusiast | Linux Learner | DevOps Curious
+Infrastructure enthusiast | Linux Administrator | DevOps Curious
 
 I am a MIS Administrator focused on system administration, Linux infrastructure, automation, and secure web systems.
 
