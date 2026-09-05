@@ -86,6 +86,4 @@ Hands-on projects involving:
 
 ## Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amirqusairy99&theme=tokyo-night)](https://github.com/amirqusairy99)
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirqusairy99&theme=tokyonight" />
