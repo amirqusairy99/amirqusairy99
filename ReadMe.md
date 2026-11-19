@@ -5,18 +5,10 @@
 > "Keep it simple. Make it work. Improve it later."
 
 <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="120" align="right">
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Infrastructure-Enthusiast-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/DevOps-Curious-2563eb?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-Engineering-0ea5e9?style=flat-square&logo=icloud&logoColor=white" />
-</p>
-
-I am a **System Administrator** with a focus on **Windows/Linux infrastructure, system administration, automation, and secure web environments**.
 
 I’m a System Administrator who spends a lot of time under the hood of Windows and Linux servers. Backed by strong infrastructure fundamentals and hands-on experience in web security, I’m currently diving deep into DevOps—and looking for real-world environments and projects to put my skills to work.
 
-<p align="center">
+<p align="left">
   <!-- Role & Availability -->
   <img src="https://img.shields.io/badge/Role-System_Administrator-111827?style=flat-square" />
   <a href="https://linkedin.com/in/amir-qusairy">
@@ -28,6 +20,7 @@ I’m a System Administrator who spends a lot of time under the hood of Windows 
   <img src="https://img.shields.io/badge/Windows_Server-Administration-0078D4?style=flat-square" />
   <img src="https://img.shields.io/badge/Infrastructure-Architecture-334155?style=flat-square" />
   <img src="https://img.shields.io/badge/Web_Security-Hardening-dc2626?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Engineering-0ea5e9?style=flat-square&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps-Diving_Deep-2563eb?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
