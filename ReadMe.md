@@ -69,7 +69,7 @@ I’m a System Administrator who spends a lot of time under the hood of Windows 
 
 ## Read My Blogs!
 
-| [RHEL Architecture](https://amirqusairy99.github.io/posts/RHEL-Architecture/) | [Laravel](https://amirqusairy99.github.io/posts/laravel/) | [SSRF via Routing](https://amirqusairy99.github.io/posts/SSRF_via_routing/) |
+| [RHEL Architecture](https://amirqusairy99.github.io/posts/RHEL 9.8 Server Architecture/) | [Laravel](https://amirqusairy99.github.io/posts/Modern Web Application/) | [SSRF via Routing](https://amirqusairy99.github.io/posts/Web Security - SSRF/) |
 | :---: | :---: | :---: |
 | <a href="https://amirqusairy99.github.io/posts/RHEL-Architecture/"><img src="https://raw.githubusercontent.com/amirqusairy99/amirqusairy99.github.io/main/assets/img/rhel.jpg" width="250" alt="RHEL Architecture"/></a> | <a href="https://amirqusairy99.github.io/posts/laravel/"><img src="https://raw.githubusercontent.com/amirqusairy99/amirqusairy99.github.io/main/assets/img/letsbelajar-architecture.jpg" width="250" alt="Laravel"/></a> | <a href="https://amirqusairy99.github.io/posts/SSRF_via_routing/"><img src="https://raw.githubusercontent.com/amirqusairy99/amirqusairy99.github.io/main/assets/img/ssrfrouting.png" width="250" alt="SSRF via Routing"/></a> |
 
