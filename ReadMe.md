@@ -71,7 +71,7 @@ I’m a System Administrator who spends a lot of time under the hood of Windows 
 
 | [RHEL Architecture](https://amirqusairy99.github.io/posts/RHEL-Architecture/) | [Laravel](https://amirqusairy99.github.io/posts/laravel/) | [SSRF via Routing](https://amirqusairy99.github.io/posts/SSRF_via_routing/) |
 | :---: | :---: | :---: |
-| <a href="https://amirqusairy99.github.io/posts/RHEL-Architecture/"><img src="https://raw.githubusercontent.com/amirqusairy99/amirqusairy99.github.io/main/assets/img/rhel.jpg" width="250" alt="RHEL 9.8 Server Architecture"/></a> | <a href="https://amirqusairy99.github.io/posts/laravel/"><img src="https://raw.githubusercontent.com/amirqusairy99/amirqusairy99.github.io/main/assets/img/letsbelajar-architecture.jpg" width="250" alt="Designing Modern Web Stack"/></a> | <a href="https://amirqusairy99.github.io/posts/SSRF_via_routing/"><img src="https://raw.githubusercontent.com/amirqusairy99/amirqusairy99.github.io/main/assets/img/ssrfrouting.png" width="250" alt="Web Security - SSRF Vulnerabilities"/></a> |
+| <a href="https://amirqusairy99.github.io/posts/RHEL-Architecture/"><img src="https://raw.githubusercontent.com/amirqusairy99/amirqusairy99.github.io/main/assets/img/rhel.jpg" width="250" alt="RHEL Architecture"/></a> | <a href="https://amirqusairy99.github.io/posts/laravel/"><img src="https://raw.githubusercontent.com/amirqusairy99/amirqusairy99.github.io/main/assets/img/letsbelajar-architecture.jpg" width="250" alt="Laravel"/></a> | <a href="https://amirqusairy99.github.io/posts/SSRF_via_routing/"><img src="https://raw.githubusercontent.com/amirqusairy99/amirqusairy99.github.io/main/assets/img/ssrfrouting.png" width="250" alt="SSRF via Routing"/></a> |
 
 
 
