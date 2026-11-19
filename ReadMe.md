@@ -12,17 +12,24 @@
   <img src="https://img.shields.io/badge/Cloud-Engineering-0ea5e9?style=flat-square&logo=icloud&logoColor=white" />
 </p>
 
-I am a **MIS Administrator** with a focus on **Linux infrastructure, system administration, automation, and secure web environments**.
+I am a **System Administrator** with a focus on **Windows/Linux infrastructure, system administration, automation, and secure web environments**.
 
-My interests include building reliable infrastructure, automating repetitive tasks, improving system security, and exploring modern DevOps practices.
+I’m a System Administrator who spends a lot of time under the hood of Windows and Linux servers. Backed by strong infrastructure fundamentals and hands-on experience in web security, I’m currently diving deep into DevOps—and looking for real-world environments and projects to put my skills to work.
 
-Currently exploring:
-- Linux administration
-- Docker & Kubernetes
-- Cloud infrastructure
-- CI/CD automation
-- Infrastructure as Code
-- Security practices
+<p align="center">
+  <!-- Role & Availability -->
+  <img src="https://img.shields.io/badge/Role-System_Administrator-111827?style=flat-square" />
+  <a href="https://linkedin.com/in/amir-qusairy">
+    <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-10b981?style=flat-square" />
+  </a>
+  <br />
+  <!-- Core Skills & Focus -->
+  <img src="https://img.shields.io/badge/Linux_Server-Administration-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows_Server-Administration-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Infrastructure-Architecture-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web_Security-Hardening-dc2626?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Diving_Deep-2563eb?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 ## Socials
 
