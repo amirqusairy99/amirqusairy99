@@ -5,7 +5,12 @@
 > "Keep it simple. Make it work. Improve it later."
 
 <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="120" align="right">
-<p align="center"> <img src="https://img.shields.io/badge/Linux-Administrator-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Infrastructure-Enthusiast-111827?style=flat-square" /> <img src="https://img.shields.io/badge/DevOps-Curious-2563eb?style=flat-square&logo=docker&logoColor=white" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-Administrator-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Infrastructure-Enthusiast-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-Curious-2563eb?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Engineering-0ea5e9?style=flat-square&logo=icloud&logoColor=white" />
+</p>
 
 I am a **MIS Administrator** with a focus on **Linux infrastructure, system administration, automation, and secure web environments**.
 
