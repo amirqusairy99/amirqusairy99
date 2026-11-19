@@ -67,30 +67,12 @@ I’m a System Administrator who spends a lot of time under the hood of Windows 
 <img src="https://skillicons.dev/icons?i=aws,azure,linux,bash" />
 </p>
 
-## Featured Projects
+## Read My Blogs!
 
+| [RHEL Architecture](https://amirqusairy99.github.io/posts/RHEL-Architecture/) | [Laravel](https://amirqusairy99.github.io/posts/laravel/) | [SSRF via Routing](https://amirqusairy99.github.io/posts/SSRF_via_routing/) |
+| :---: | :---: | :---: |
+| <a href="https://amirqusairy99.github.io/posts/RHEL-Architecture/"><img src="https://raw.githubusercontent.com/amirqusairy99/amirqusairy99.github.io/main/assets/img/rhel.jpg" width="250" alt="RHEL Architecture"/></a> | <a href="https://amirqusairy99.github.io/posts/laravel/"><img src="https://raw.githubusercontent.com/amirqusairy99/amirqusairy99.github.io/main/assets/img/letsbelajar-architecture.jpg" width="250" alt="Laravel"/></a> | <a href="https://amirqusairy99.github.io/posts/SSRF_via_routing/"><img src="https://raw.githubusercontent.com/amirqusairy99/amirqusairy99.github.io/main/assets/img/ssrfrouting.png" width="250" alt="SSRF via Routing"/></a> |
 
-### LetsBelajar
-
-A learning management platform built with:
-
-- Laravel 12
-- PHP 8.3
-- MySQL
-- Bootstrap 5
-- Linux server deployment
-- Docker
-
-
-### Infrastructure Labs
-
-Hands-on projects involving:
-
-- Linux server administration
-- VMware / Hyper-V virtualization
-- Docker deployments
-- Cloud environments
-- Security testing
 
 
 ## Activity
