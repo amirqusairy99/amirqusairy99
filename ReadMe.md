@@ -24,16 +24,20 @@ I’m a System Administrator who spends a lot of time under the hood of Windows 
   <img src="https://img.shields.io/badge/DevOps-Diving_Deep-2563eb?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-## Socials
+## Socials & Blogs
 
 <p align="left">
-<a href="www.linkedin.com/in/amir-qusairy/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/amir-qusairy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="github.com/amirqusairy99">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://github.com/amirqusairy99">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://amirqusairy99.github.io">
+    <img src="https://img.shields.io/badge/Blog-10b981?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
 </p>
 
 ## Technical Skills
