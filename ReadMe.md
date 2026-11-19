@@ -6,7 +6,7 @@
 
 <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" width="120" align="right">
 
-I’m a System Administrator who spends a lot of time under the hood of Windows and Linux servers. Backed by strong infrastructure fundamentals and hands-on experience in web security, I’m currently diving deep into DevOps—and looking for real-world environments and projects to put my skills to work.
+I’m a **System Administrator** who spends a lot of time under the hood of Windows and Linux servers. Backed by strong infrastructure fundamentals and hands-on experience in web security, I’m currently diving deep into DevOps and looking for real-world environments and projects to put my skills to work.
 
 <p align="left">
   <!-- Role & Availability -->
