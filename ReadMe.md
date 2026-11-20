@@ -40,7 +40,7 @@ I’m a **System Administrator** who spends a lot of time under the hood of Wind
   </a>
 </p>
 
-## Technical Skills
+## Technical Skills <img src="https://img.shields.io/badge/-Tech_Stack-111827?style=flat-square&logo=gnometerminal&logoColor=white" align="center" />
 
 ### Operating Systems
 
