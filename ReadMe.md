@@ -46,7 +46,7 @@ I’m a **System Administrator** who spends a lot of time under the hood of Wind
 ### Operating Systems
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows" />
 </p>
 
 ### DevOps & Infrastructure
