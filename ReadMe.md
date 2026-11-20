@@ -54,17 +54,17 @@ I’m a **System Administrator** who spends a lot of time under the hood of Wind
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,git,github" />
 </p>
 
-### Web Development
+### Scripting & Web Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,nginx,bootstrap" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=bash,python,php,laravel,mysql,nginx,bootstrap" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="48" height="48" style="vertical-align: top;" />
 </p>
 
 ### Virtualization & Cloud
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure,linux,bash" />
+<img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
 
 ## Read My Blogs!
@@ -72,8 +72,6 @@ I’m a **System Administrator** who spends a lot of time under the hood of Wind
 | [RHEL 9.8 Server Architecture](https://amirqusairy99.github.io/posts/RHEL-Architecture/) | [Modern Web Application](https://amirqusairy99.github.io/posts/laravel/) | [Web Security - SSRF](https://amirqusairy99.github.io/posts/SSRF_via_routing/) |
 | :---: | :---: | :---: |
 | <a href="https://amirqusairy99.github.io/posts/RHEL-Architecture/"><img src="https://amirqusairy99.github.io/assets/img/rhel.jpg" width="270" alt="RHEL Architecture"/></a> | <a href="https://amirqusairy99.github.io/posts/laravel/"><img src="https://amirqusairy99.github.io/assets/img/letsbelajar-architecture.jpg" width="250" alt="Laravel"/></a> | <a href="https://amirqusairy99.github.io/posts/SSRF_via_routing/"><img src="https://amirqusairy99.github.io/assets/img/ssrfrouting.png" width="250" alt="SSRF via Routing"/></a> |
-
-
 
 ## Activity
 
