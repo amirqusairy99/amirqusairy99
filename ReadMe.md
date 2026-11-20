@@ -40,7 +40,14 @@ I’m a **System Administrator** who spends a lot of time under the hood of Wind
   </a>
 </p>
 
-## Technical Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ls3pww027c&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30" align="center" />
+## Technical Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows_&_Linux-Server_Administration-334155?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network-Infrastructure-0ea5e9?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web-Security_&_Hardening-dc2626?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Automation_&_CI/CD-2563eb?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 ### Operating Systems
 
