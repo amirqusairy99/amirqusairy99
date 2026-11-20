@@ -71,7 +71,7 @@ I’m a **System Administrator** who spends a lot of time under the hood of Wind
 
 | [RHEL 9.8 Server Architecture](https://amirqusairy99.github.io/posts/RHEL-Architecture/) | [Modern Web Application](https://amirqusairy99.github.io/posts/laravel/) | [Web Security - SSRF](https://amirqusairy99.github.io/posts/SSRF_via_routing/) |
 | :---: | :---: | :---: |
-| <a href="https://amirqusairy99.github.io/posts/RHEL-Architecture/"><img src="https://raw.githubusercontent.com/amirqusairy99/amirqusairy99.github.io/main/assets/img/rhel.jpg" width="250" alt="RHEL Architecture"/></a> | <a href="https://amirqusairy99.github.io/posts/laravel/"><img src="https://raw.githubusercontent.com/amirqusairy99/amirqusairy99.github.io/main/assets/img/letsbelajar-architecture.jpg" width="250" alt="Laravel"/></a> | <a href="https://amirqusairy99.github.io/posts/SSRF_via_routing/"><img src="https://raw.githubusercontent.com/amirqusairy99/amirqusairy99.github.io/main/assets/img/ssrfrouting.png" width="250" alt="SSRF via Routing"/></a> |
+| <a href="https://amirqusairy99.github.io/posts/RHEL-Architecture/"><img src="https://amirqusairy99.github.io/assets/img/rhel.jpg" width="250" alt="RHEL Architecture"/></a> | <a href="https://amirqusairy99.github.io/posts/laravel/"><img src="https://amirqusairy99.github.io/assets/img/letsbelajar-architecture.jpg" width="250" alt="Laravel"/></a> | <a href="https://amirqusairy99.github.io/posts/SSRF_via_routing/"><img src="https://amirqusairy99.github.io/assets/img/ssrfrouting.png" width="250" alt="SSRF via Routing"/></a> |
 
 
 
