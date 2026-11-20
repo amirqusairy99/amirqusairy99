@@ -58,7 +58,7 @@ I’m a **System Administrator** who spends a lot of time under the hood of Wind
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,nginx,bootstrap" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="48" height="48" />
 </p>
 
 ### Virtualization & Cloud
