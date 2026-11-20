@@ -40,13 +40,7 @@ I’m a **System Administrator** who spends a lot of time under the hood of Wind
   <img src="https://img.shields.io/badge/Network-Infrastructure-0ea5e9?style=flat-square&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Web-Security_&_Hardening-dc2626?style=flat-square&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps-Automation_&_CI/CD-2563eb?style=flat-square&logo=docker&logoColor=white" />
-   <!-- Core Skills & Focus -->
-  <img src="https://img.shields.io/badge/Linux_Server-Administration-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows_Server-Administration-0078D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Infrastructure-Architecture-334155?style=flat-square" />
-  <img src="https://img.shields.io/badge/Web_Security-Hardening-dc2626?style=flat-square&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-Engineering-0ea5e9?style=flat-square&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevOps-Diving_Deep-2563eb?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ### Operating Systems
