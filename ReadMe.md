@@ -1,6 +1,6 @@
 # About Me
 
-![Header](https://i.programmerhumor.io/2026/11/c4dcfecdd8ca41e366eddab53166d0e8b63ab30b0a870ae9f7bae7924377f56b.jpeg)
+![Header](<img width="1547" height="688" alt="Gemini_Generated_Image_xcyy8gxcyy8gxcyy(1)" src="https://github.com/user-attachments/assets/e1beb26e-4e58-417f-a333-3e187469096d" />)
 
 > "Keep it simple. Make it work. Improve it later."
 
