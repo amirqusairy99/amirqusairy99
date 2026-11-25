@@ -1,6 +1,6 @@
 # About Me
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hi%20there,%20I'm%20Amir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://i.programmerhumor.io/2026/11/c4dcfecdd8ca41e366eddab53166d0e8b63ab30b0a870ae9f7bae7924377f56b.jpeg)
 
 > "Keep it simple. Make it work. Improve it later."
 
